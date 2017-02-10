@@ -1,0 +1,10 @@
+In probability theory and related fields, a Markov process is a specific type of a mathematical object known as
+a stochastic or random process, which is usually defined as a collection of random variables. 
+Historically, the random variables were associated with or indexed by some set of numbers, usually viewed as time, 
+giving the interpretation of a stochastic process representing numerical values of some random system evolving over time, 
+such as an electrical current fluctuating due to thermal noise or the movement of a gas molecule.
+Markov processes are stochastic processes that have the property that the next value of the process
+ depends on the current value, but it is conditionally independent of the previous values of the stochastic process – 
+ in other words, the behavior of the process in the future is stochastically independent of its behavior in the past, 
+ given the current state of the process. For a stochastic process to be a Markov process, it must have this property, 
+ which is referred to as the Markov property. The adjective Markovian is used to describe something that is related to a Markov process.

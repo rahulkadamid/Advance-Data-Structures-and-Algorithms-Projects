@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\rahul 3\dropbox\project\ads\markovtextgenerator\markovtextgenerator\skiplist_markov.h(98): warning C4018: '<': signed/unsigned mismatch
+  c:\users\rahul 3\dropbox\project\ads\markovtextgenerator\markovtextgenerator\skiplist_markov.h(67): note: while compiling class template member function 'Skiplist_Markov_Node<T> *Skiplist_Markov<T>::add(T)'
+          with
+          [
+              T=std::string
+          ]
+  c:\users\rahul 3\dropbox\project\ads\markovtextgenerator\markovtextgenerator\skiplist_markov.h(25): note: see reference to class template instantiation 'Skiplist_Markov<std::string>' being compiled
+  MarkovTextGenerator.vcxproj -> C:\Users\rahul 3\Dropbox\Project\ADS\MarkovTextGenerator\Debug\MarkovTextGenerator.exe
+  MarkovTextGenerator.vcxproj -> C:\Users\rahul 3\Dropbox\Project\ADS\MarkovTextGenerator\Debug\MarkovTextGenerator.pdb (Full PDB)
