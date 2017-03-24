@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\rahul 3\desktop\sorting_algorithms_benchmarking_release\sorting_algorithms_benchmarking\../WindowsStopWatch/WindowsStopWatch.h(46): warning C4244: 'return': conversion from '__int64' to 'long', possible loss of data
+c:\users\rahul 3\desktop\sorting_algorithms_benchmarking_release\sorting_algorithms_benchmarking\../IntroSort/IntroSort.h(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+c:\users\rahul 3\desktop\sorting_algorithms_benchmarking_release\introsort\introsort.h(52): warning C4715: 'IntroSort::MedianOfThree': not all control paths return a value
+  All 486 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sorting_Algorithms_Benchmarking.vcxproj -> C:\Users\rahul 3\Desktop\Sorting_Algorithms_Benchmarking_Release\Release\Sorting_Algorithms_Benchmarking.exe
+  Sorting_Algorithms_Benchmarking.vcxproj -> C:\Users\rahul 3\Desktop\Sorting_Algorithms_Benchmarking_Release\Release\Sorting_Algorithms_Benchmarking.pdb (Full PDB)
